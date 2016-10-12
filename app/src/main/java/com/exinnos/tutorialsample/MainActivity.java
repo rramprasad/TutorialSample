@@ -10,9 +10,9 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    int tutorialImages[] = {R.drawable.s1,
-            R.drawable.s2,
-            R.drawable.s3};
+    int tutorialImages[] = {R.drawable.s3,
+            R.drawable.s4,
+            R.drawable.s5};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
